@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Asmar</h1>
 <h3 align="center">A passionate SRE/DevOps Engineer from Palestine</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hax7" alt="hax7" /></a> </p>
+<img aligh="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/coding-freak-1.gif">
 
 - 🔭 I’m currently working on **k8s secret management**
 
