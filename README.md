@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Asmar</h1>
-<h3 align="center">A passionate SRE/DevOps Engineer from Palestine</h3>
+<h3 align="center">A passionate SRE/DevOps Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/coding-freak-1.gif">
 
 - 🔭 I’m currently working on **k8s integration with external secret management**
