@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Senior SRE/DevOps Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/06/coding-freak-1.gif">
 
-- 🔭 I’m currently working on **k8s integration with external secret management**
-
 - 🌱 I’m currently learning **Gitops, Platform Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hax7](https://github.com/Hax7)
